@@ -1,0 +1,33 @@
+
+h3 {
+  color: tomato;
+  font-family:  'Domine', serif;
+  align-content: center;
+}
+
+body {
+  background-color: #FFF9DF;
+  font-family:  'Domine', serif;
+  justify-content: space-around;
+  align-content: center;
+}
+
+
+ul {
+  list-style-type: none;
+  justify-content: space-around;
+  align-content: center;
+  display: flex;
+  font-family:  'Domine', serif;
+  color: #669933;
+}
+
+a {
+  text-decoration: none;
+  color: #669933;
+}
+img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
